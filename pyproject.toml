@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "neuralhash"
-version = "0.1.0"
+version = "0.1.1"
 description = "Generates a hash from a reverse engineered Apple NeuralHash model"
 authors = [
     { name = "Josh Terrill", email = "josh@hacked.codes" }
@@ -17,6 +17,11 @@ dependencies = [
     "pillow",
     "numpy"
 ]
+
+[project.urls]
+Homepage = "https://github.com/joshterrill/python-neuralhash"
+Repository = "https://github.com/joshterrill/python-neuralhash"
+Issues = "https://github.com/joshterrill/python-neuralhash/issues"
 
 [project.scripts]
 neuralhash = "neuralhash.cli:main"
