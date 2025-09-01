@@ -1,6 +1,6 @@
 # Python NeuralHash
 
-This is a library that exposes the Apple Neuralhash model, which can be used to determine similar images, even if the images are not exactly the same.
+This is a library that exposes the [Apple Neuralhash](https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf) model, which can be used to determine similar images, even if the images are not exactly the same.
 
 ## Installation
 
