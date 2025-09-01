@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "neuralhash"
-version = "0.1.1"
+version = "0.1.2"
 description = "Generates a hash from a reverse engineered Apple NeuralHash model"
 authors = [
     { name = "Josh Terrill", email = "josh@hacked.codes" }

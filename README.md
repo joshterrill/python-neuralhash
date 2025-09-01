@@ -13,7 +13,7 @@ pip install neuralhash
 From source:
 
 ```bash
-git clone https://github.com/yourname/neuralhash.git
+git clone https://github.com/joshterrill/python-neuralhash.git
 cd neuralhash
 pip install -e .
 ```
